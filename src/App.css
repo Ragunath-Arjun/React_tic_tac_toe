@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  /* background-color: #efefef; */
+  background: linear-gradient(
+    to right,
+    pink 0%,
+    pink 50%,
+    paleturquoise 0%,
+    paleturquoise 50%
+  );
+  font-family: "Fredoka", sans-serif;
+}
